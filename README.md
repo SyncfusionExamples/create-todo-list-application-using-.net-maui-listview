@@ -1,4 +1,4 @@
-# create-todo-list-application-using-.net-maui-listview
+# Create a ToDO list application using .NET MAUI ListView (SfListView)
 
 This demo explains about how to create a ToDoList application using .NET MAUI ListView (SfListView).
 
